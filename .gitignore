@@ -1,0 +1,14 @@
+# Dependencies and build output
+node_modules/
+dist/
+/backend/server
+
+# Coverage
+coverage/
+*.out
+
+# Editors / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
